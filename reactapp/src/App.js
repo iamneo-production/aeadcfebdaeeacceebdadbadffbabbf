@@ -1,6 +1,6 @@
 
 
-import Stopwatch from './components/Stopwatch'
+import Stopwatch from './components/Stopwatch/Stopwatch'
 import './App.css';
 
 function App() {
